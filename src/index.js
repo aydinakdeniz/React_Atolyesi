@@ -1,7 +1,7 @@
-import React from 'react';
+import React from 'react'; //kütüphaneden react eklenmiş.
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import './index.css'; // index css dahil etmiş.
+import App from './App'; //burasıda önemli default gelen component 
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
